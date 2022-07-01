@@ -1,6 +1,6 @@
 # Mindy Bot (In)
-This demo is a simplified version of the Guest Link Generator Bot: https://github.com/wxsd-sales/wxsd-guest-demo#bot
-
+This demo is a simplified version of the Guest Link Generator Bot:  
+https://github.com/wxsd-sales/wxsd-guest-demo#bot
 
 ## Message the Bot
 Send a message to mindy_bot@webex.bot  
