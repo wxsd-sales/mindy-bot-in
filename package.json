@@ -1,0 +1,25 @@
+{
+  "name": "mindy-bot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.7",
+    "webex": "^1.141.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WXSD-Sales/mindy-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WXSD-Sales/mindy-bot/issues"
+  },
+  "homepage": "https://github.com/WXSD-Sales/mindy-bot#readme",
+  "description": ""
+}
